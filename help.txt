@@ -1,0 +1,1 @@
+<a href="mailto:support@example.com?subject=Help Needed&body=Hello, I need assistance with...">Contact Support</a>
